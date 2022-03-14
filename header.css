@@ -1,0 +1,34 @@
+.container {
+    background-color: black;
+    display: flex;    
+    font-family: serif;
+    color: white;
+    justify-content: space-between;
+    align-items: baseline;
+    
+}
+.parentlogo {
+    background-color: purple;
+    align-content: stretch;
+}
+.childlogo {
+    color: white;
+    font-size: 35px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+.links {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+.linkitems {
+    display: inline;
+    padding: 50px;
+}
+.para {
+    align-self: center;
+    padding-right: 30px
+}
